@@ -37,7 +37,3 @@ Guides:
 - Step-by-step migration: https://saturnsql.com/help/migrate-from-popsql
 - Full alternatives comparison: https://saturnsql.com/use-cases/popsql-alternatives
 - PopSQL shutdown details: https://saturnsql.com/help/popsql-shutdown
-
----
-
-Maintained by the [SaturnSQL](https://saturnsql.com) team.
